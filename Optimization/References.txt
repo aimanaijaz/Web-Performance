@@ -1,0 +1,22 @@
+I have created this text file to list all the references that I have used to optimize my website.
+
+- https://www.youtube.com/watch?v=wNlEK8qrb0M [ Gulp Tutorials]
+
+- https://www.npmjs.com/package/gulp-image-optimization
+- https://www.npmjs.com/package/gulp-uglify
+- https://www.npmjs.com/package/gulp-minify-css
+- https://www.npmjs.com/package/gulp-htmlmin
+- https://www.npmjs.com/package/gulp-rename
+- https://www.npmjs.com/search?q=gulp+uncss
+
+-https://www.youtube.com/watch?v=CfmUf1_M9lI
+-https://gist.github.com/PaulKinlan/6284142 
+-http://www.exeideas.com/2014/07/optimize-external-css-file.html
+
+-http://www.html5rocks.com/en/tutorials/speed/animations/
+-https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transforms
+-http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css
+-http://benfrain.com/improving-css-performance-fixed-position-elements/
+-http://www.picresize.com/
+-https://kraken.io/
+
