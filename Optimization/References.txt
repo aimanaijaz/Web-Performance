@@ -19,4 +19,3 @@ I have created this text file to list all the references that I have used to opt
 -http://benfrain.com/improving-css-performance-fixed-position-elements/
 -http://www.picresize.com/
 -https://kraken.io/
-

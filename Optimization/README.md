@@ -24,6 +24,6 @@ I have optimized the site in the following ways
 6) Made the following optimizations in main.js
 (a) Removed some variables out of their loops to improve performance.
 (b) Used translateX instead of updating left property of each element.
-(c) The position of the pizzas was updated each time the scroll event listener detected a scroll. Modified code so that update is called only when necesssary. 
+(c) The position of the pizzas was updated each time the scroll event listener detected a scroll. Modified code so that update is called only when necesssary.
 (d) Reduced the number of pizza images in the background as all were not visible to the user yet were taking up resources.
 
