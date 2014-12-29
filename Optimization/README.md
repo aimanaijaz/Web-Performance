@@ -7,11 +7,11 @@ I have hosted the site on github pages. This site has been minified and compress
 
 I have optimized the site in the following ways
 
-1)Image optimization 
+1)Image optimization    
 (a) Used gulp-image-optimization to optimize the images in the img folder.   
 (b) Optimized the pizza.png image using kraken and pizzeria.jpg image by using picResize
 
-2) Inline CSS 
+2) Inline CSS    
 (a) Inlined critical CSS by following Addy Osmani's video "Detecting Critical CSS For Above-The-Fold Content". ( https://www.youtube.com/watch?v=CfmUf1_M9lI - Detecting critical CSS ).   
 (b) Used a script to call CSS at the end
 
