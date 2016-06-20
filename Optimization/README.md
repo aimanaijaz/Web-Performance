@@ -1,9 +1,9 @@
 Web Performance Optimization
 
--To test the website for optimization please click on this link http://aimanaijaz.github.io/Web-Performance/Optimization/   
+-To test the website for optimization please click on this link http://aimanaijaz.github.io/webperformance/Optimization/   
  I have hosted the site on github pages. This site has been minified and compressed.    
 
--To access the development version click on the following link    https://github.com/aimanaijaz/Web-Performance/tree/master/Optimization   
+-To access the development version click on the following link    https://github.com/aimanaijaz/webperformance/tree/master/Optimization   
 
 I have optimized the site in the following ways
 
